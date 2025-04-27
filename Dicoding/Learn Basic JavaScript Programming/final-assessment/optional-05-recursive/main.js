@@ -11,7 +11,9 @@ console.log(`Faktorial dari ${numberForFactorial} adalah ${factorial(numberForFa
 const numberForFibonacci = 10;
 console.log(`Deret Fibonacci hingga elemen ${numberForFibonacci} adalah:`);
 for (let i = 0; i <= numberForFibonacci; i++) {
-  console.log(fibonacci(i));
+  // Menggunakan fungsi fibonacci untuk mendapatkan deret Fibonacci yang konsisten
+  const fibSeq = fibonacci(i);
+  console.log(`[ ${fibSeq.join(', ')} ]`);
 }
 
 /**
