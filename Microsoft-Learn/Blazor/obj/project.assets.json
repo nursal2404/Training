@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Upload Github\\Training\\Microsoft-Learn\\Build web apps with Blazor\\Build web apps with Blazor.csproj",
-      "projectName": "Build_web_apps_with_Blazor",
-      "projectPath": "D:\\Upload Github\\Training\\Microsoft-Learn\\Build web apps with Blazor\\Build web apps with Blazor.csproj",
+      "projectUniqueName": "D:\\Upload Github\\Training\\Microsoft-Learn\\Blazor\\Blazor.csproj",
+      "projectName": "Blazor",
+      "projectPath": "D:\\Upload Github\\Training\\Microsoft-Learn\\Blazor\\Blazor.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\Upload Github\\Training\\Microsoft-Learn\\Build web apps with Blazor\\obj\\",
+      "outputPath": "D:\\Upload Github\\Training\\Microsoft-Learn\\Blazor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
